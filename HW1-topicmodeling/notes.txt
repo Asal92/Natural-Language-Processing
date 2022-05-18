@@ -1,0 +1,11 @@
+
+My approach:
+
+1- read lines of the text file
+2- change all characters to lower case
+3- made a list of words that alone don't have any meaning (started with prepositions)
+4- removed those words from the lines
+5- count every words to see how many times they've been used in the file
+6- make a dictionary where keys are words, values are their repetition
+7- select 5 values form the dictionary with max values
+
